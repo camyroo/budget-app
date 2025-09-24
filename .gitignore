@@ -1,0 +1,21 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+.env
+.env.*
+*.log
+
+# Node / Next.js
+node_modules/
+.next/
+out/
+dist/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
